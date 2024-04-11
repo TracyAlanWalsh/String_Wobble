@@ -1,0 +1,31 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    position: absolute; 
+    background-color: #469fafde;
+    top: 0;
+    left: 0; 
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+.circle {
+
+    background-image: radial-gradient(circle at center, #2ecc71, #2980b9);
+    border-radius: 50%;
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100vw;
+    height: 100vh;
+    padding-right: 0;
+    padding-bottom: 0;
+ 
+  }
+  #myCanvas {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100vw;
+    height: 100vh;
+  }
